@@ -1,0 +1,107 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes 	KEYWORD1
+#######################################
+
+LoRaSerial	KEYWORD1
+
+#######################################
+# Methods and Functions 	KEYWORD2
+#######################################
+
+begin	KEYWORD2
+setSerialPins	KEYWORD2
+enableDebugging	KEYWORD2
+enableAtDebugging	KEYWORD2
+getData	KEYWORD2
+setData	KEYWORD2
+
+enterCommandMode	KEYWORD2
+exitCommandMode	KEYWORD2
+at	KEYWORD2
+reset	KEYWORD2
+saveSettings	KEYWORD2
+factoryReset	KEYWORD2
+enterTrainingMode	KEYWORD2
+enterTrainingModeWithDefaults	KEYWORD2
+
+getVersion	KEYWORD2
+getRSSI	KEYWORD2
+getRandom	KEYWORD2
+getMaxThroughput	KEYWORD2
+
+getSerialSpeed	KEYWORD2
+getAirSpeed	KEYWORD2
+getNetworkID	KEYWORD2
+getPointToPoint	KEYWORD2
+getEncryptData	KEYWORD2
+getAESKey	KEYWORD2
+getDataScrambling	KEYWORD2
+getTxPower	KEYWORD2
+getFrequencyMin	KEYWORD2
+getFrequencyMax	KEYWORD2
+
+getNumberOfChannels	KEYWORD2
+getFrequencyHop	KEYWORD2
+getMaxDwellTime	KEYWORD2
+getBandwidth	KEYWORD2
+getSpreadFactor	KEYWORD2
+getCodingRate	KEYWORD2
+getSyncWord	KEYWORD2
+getPreambleLength	KEYWORD2
+getFrameSize	KEYWORD2
+getFrameTimeout	KEYWORD2
+
+getDebug	KEYWORD2
+getEcho	KEYWORD2
+getHeartBeatTimeout	KEYWORD2
+getFlowControl	KEYWORD2
+getAutoTune	KEYWORD2
+getDisplayPacketQuality	KEYWORD2
+getMaxResends	KEYWORD2
+
+setSerialSpeed	KEYWORD2
+setAirSpeed	KEYWORD2
+setNetworkID	KEYWORD2
+setPointToPoint	KEYWORD2
+setEncryptData	KEYWORD2
+setAESKey	KEYWORD2
+setDataScrambling	KEYWORD2
+setTxPower	KEYWORD2
+setFrequencyMin	KEYWORD2
+setFrequencyMax	KEYWORD2
+
+setNumberOfChannels	KEYWORD2
+setFrequencyHop	KEYWORD2
+setMaxDwellTime	KEYWORD2
+setBandwidth	KEYWORD2
+setSpreadFactor	KEYWORD2
+setCodingRate	KEYWORD2
+setSyncWord	KEYWORD2
+setPreambleLength	KEYWORD2
+setFrameSize	KEYWORD2
+setFrameTimeout	KEYWORD2
+
+setDebug	KEYWORD2
+setEcho	KEYWORD2
+setHeartBeatTimeout	KEYWORD2
+setFlowControl	KEYWORD2
+setAutoTune	KEYWORD2
+setDisplayPacketQuality	KEYWORD2
+setMaxResends	KEYWORD2
+
+#######################################
+# Constants 	LITERAL1
+#######################################
+
+LORASERIAL_ERROR_INVALID	LITERAL1
+LORASERIAL_ERROR_SUCCESS	LITERAL1
+LORASERIAL_ERROR_OUT_OF_MEMORY	LITERAL1
+LORASERIAL_ERROR_TIMEOUT	LITERAL1
+LORASERIAL_ERROR_UNEXPECTED_PARAM	LITERAL1
+LORASERIAL_ERROR_UNEXPECTED_RESPONSE	LITERAL1
+LORASERIAL_ERROR_NO_RESPONSE	LITERAL1
+LORASERIAL_ERROR_ERROR	LITERAL1
